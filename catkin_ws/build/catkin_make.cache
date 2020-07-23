@@ -1,0 +1,2 @@
+car_demo:prius_description:prius_msgs
+-DCATKIN_DEVEL_PREFIX=/home/sdc/self_driving/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sdc/self_driving/catkin_ws/install -G Unix Makefiles
